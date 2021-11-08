@@ -1,5 +1,5 @@
 # SCHEDULE DEV.TO ARTICLES
-> Stay updated with latest posts from dev.to community.
+> Stay updated with latest posts from dev.to community on your Telegram.
 
 ---
 
